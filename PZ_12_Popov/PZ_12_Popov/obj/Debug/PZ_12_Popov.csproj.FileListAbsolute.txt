@@ -1,0 +1,15 @@
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\bin\Debug\PZ_12_Popov.exe.config
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\bin\Debug\PZ_12_Popov.exe
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\bin\Debug\PZ_12_Popov.pdb
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\PZ_12_Popov.csproj.AssemblyReference.cache
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\MainWindow.g.cs
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\App.g.cs
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\PZ_12_Popov_MarkupCompile.cache
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\PZ_12_Popov_MarkupCompile.lref
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\MainWindow.baml
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\PZ_12_Popov.g.resources
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\PZ_12_Popov.Properties.Resources.resources
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\PZ_12_Popov.csproj.GenerateResource.cache
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\PZ_12_Popov.csproj.CoreCompileInputs.cache
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\PZ_12_Popov.exe
+C:\Users\papov\source\repos\PZ_12_Popov\PZ_12_Popov\obj\Debug\PZ_12_Popov.pdb
